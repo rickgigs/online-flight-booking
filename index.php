@@ -19,6 +19,7 @@ form.logout_form {
 	background: transparent;
 	padding: 10px !important;
 }
+dnlaspd
 body {
 	/* background:url('assets/images/bg2.jpg') no-repeat 0px 0px;
 	background-size: cover;

@@ -118,6 +118,7 @@ input[type=number]:focus,
                             <input id="cc-exp" name="cc-exp" type="tel" class="form-control cc-exp" required placeholder="MM / YY" autocomplete="cc-exp">
                             <span class="invalid-feedback">Enter the expiration date</span>
                         </div>
+                        <h1>dsfsd</h1>
                     </div>
                     <div class="col-6 p-0">
                         <label for="x_card_code" class="control-label mb-1">CVV</label>
